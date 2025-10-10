@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Projects\\Git\\WEB-Blog\\Backend\\ASP\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D097A7A-140E-47A5-B996-BD5F44AA295F}|ASP\\ASP.csproj|e:\\projects\\git\\web-blog\\backend\\asp\\asp\\dbtables\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D097A7A-140E-47A5-B996-BD5F44AA295F}|ASP\\ASP.csproj|solutionrelative:asp\\dbtables\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D097A7A-140E-47A5-B996-BD5F44AA295F}|ASP\\ASP.csproj|e:\\projects\\git\\web-blog\\backend\\asp\\asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D097A7A-140E-47A5-B996-BD5F44AA295F}|ASP\\ASP.csproj|solutionrelative:asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D097A7A-140E-47A5-B996-BD5F44AA295F}|ASP\\ASP.csproj|e:\\projects\\git\\web-blog\\backend\\asp\\asp\\dbtables\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D097A7A-140E-47A5-B996-BD5F44AA295F}|ASP\\ASP.csproj|solutionrelative:asp\\dbtables\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\Git\\WEB-Blog\\Backend\\ASP\\ASP\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP\\appsettings.json",
+              "ToolTip": "E:\\Projects\\Git\\WEB-Blog\\Backend\\ASP\\ASP\\appsettings.json",
+              "RelativeToolTip": "ASP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-10T09:44:53.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\Projects\\Git\\WEB-Blog\\Backend\\ASP\\ASP\\DBTables\\Comment.cs",
+              "RelativeDocumentMoniker": "ASP\\DBTables\\Comment.cs",
+              "ToolTip": "E:\\Projects\\Git\\WEB-Blog\\Backend\\ASP\\ASP\\DBTables\\Comment.cs",
+              "RelativeToolTip": "ASP\\DBTables\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:34:50.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "E:\\Projects\\Git\\WEB-Blog\\Backend\\ASP\\ASP\\DBTables\\Blog.cs",
+              "RelativeDocumentMoniker": "ASP\\DBTables\\Blog.cs",
+              "ToolTip": "E:\\Projects\\Git\\WEB-Blog\\Backend\\ASP\\ASP\\DBTables\\Blog.cs",
+              "RelativeToolTip": "ASP\\DBTables\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T09:32:42.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

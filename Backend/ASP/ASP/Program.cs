@@ -20,4 +20,10 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+// Отримуємо порт з середовища або ставимо 8080
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
+
+// Додаємо URL, на якому слухаємо
+app.Urls.Add($"http://0.0.0.0:{port}");
+
 app.Run();
